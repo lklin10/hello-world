@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Hello World
-        run: echo "Hello, World! My remote push"
+        run: echo "Hello, World! My second remote push"
           echo Add other actions to build,
           echo test, and deploy your project.
